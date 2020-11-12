@@ -1,0 +1,16 @@
+{
+"companyName": "OMCDev",
+"productName": "Just a Dice",
+"productVersion": "0.95",
+"dataUrl": "webglbuild.data.unityweb",
+"wasmCodeUrl": "webglbuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "webglbuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
